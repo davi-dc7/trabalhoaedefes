@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1765413255 source:c:\users\david\onedrive\Área de trabalho\codigos code blocks\hotelaeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765417875 source:c:\users\david\onedrive\Área de trabalho\hotelaeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
